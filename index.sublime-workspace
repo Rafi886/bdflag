@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"white"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "*{ \n\tpadding: 0px;\n\tmargin: 0px;\n}\nbody{\n\tfont-family: sans-serif;\n\tfont-size: 14px;\n\tline-height: 24px;\n\theight: 1400px;\n}\nh1,h2,h3,h4,h5,h6{\n\tfont-family: monospace;\n}\na, a:hover{\n\ttext-decoration: none;\n}\n.green{\n\twidth: 800px;\n\theight: 400px;\n\tbackground: green;\n\tposition: absolute;\n}\n.red{\n\twidth: 200px;\n\theight: 200px;\n\tbackground: red;\n    border-radius: 100%;\n    position: absolute;\n    top: 20%;\n    left: 38%;\n}\n.fb{\n\twidth: 150px;\n\tposition: fixed;\n\ttop: 40%;\n\tright: -100px;\n\ttransition: 1s;\n}\n.fb:hover{\n\tright: 0px;\n\tcursor: pointer;\n}\n.social-media{ \n\twidth: 100%;\n\tposition: absolute;\n\tmargin: 450px 0px;\n\tpadding: 80px 0px;\n\tbackground: gray;\n}\n.social-icons{\n\ttext-align: center;\n\twidth: 100%;\n}\n.social-icons li{\n\tlist-style: none;\n\tdisplay: inline-block;\n}\n.social-icons li a{    \n\tdisplay: block;\n\twidth: 80px;\n\theight: 80px;\n\tline-height: 80px;\n\tfont-size: 30px;\n\tborder-radius: 100%;\n\tmargin: 0px 15px;\n}\n.social-icons li a:hover{ \n\tbackground: #1877F2;\n\tcolor: yellow;\n}",
+			"file": "css/style.css",
+			"file_size": 1102,
+			"file_write_time": 132755530154462595,
+			"settings":
+			{
+				"buffer_size": 997,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"cut",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							},
+							"x": 253.3,
+							"y": 189.3
+						}
+					},
+					"AQAAAGcDAAAAAAAAZwMAAAAAAAAgAAAAYmFja2dyb3VuZDogYmx1ZTsKCWNvbG9yOiB3aGl0ZTs",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHAwAAAAAAAGcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGYDAAAAAAAAZgMAAAAAAAABAAAACWUDAAAAAAAAZQMAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAwAAAAAAAGcDAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/3/index.html",
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/3/css/style,css",
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/2/index.html",
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/2/css/style.css",
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/index.html",
+		"/C/Users/Windows 10/Downloads/Grand Theft Auto Vice City [EBOX]/Vice_City_Play.iso",
+		"/C/Users/Windows 10/Downloads/Grand Theft Auto Vice City [EBOX].rar",
+		"/C/Users/Windows 10/OneDrive/Desktop/Full Stack Web Development/2/iimages/avatar1.jpg",
+		"/C/Users/Windows 10/OneDrive/Desktop/ALeX/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								869,
+								869
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1082.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
